@@ -1,4 +1,4 @@
-You can clone and start by typing:
+## You can clone and start by typing:
 
 # install npm dependencies
 $ npm install
